@@ -27,7 +27,7 @@
     "image-processing"
   ],
   "dependencies": {
-    "couch-daemon": "^1.4.1",
+    "couch-daemon": "git+https://github.com/sitewaerts/couch-daemon.git",
     "async": "^0.8.0",
     "highland": "^1.24.1",
     "http-image-size": "^1.0.0",
